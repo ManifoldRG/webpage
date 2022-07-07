@@ -335,11 +335,11 @@ cite {
 }
 
 /* Education section ---------------------------------------- */
-#education {
+#news {
   border: none !important;
 }
 
-#education li {
+#news li {
   padding: .25rem 0;
   background: transparent;
   border: none !important;
