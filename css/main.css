@@ -1,7 +1,8 @@
 :root {
   /* root color variables */
   --bright-blue: #007bff;
-  --nd-blue: #20364c;
+  /* --nd-blue: #20364c; */
+  --nd-blue: #00396b;
   --body-background: #f6f7fb;
   --ghost-white: ghostwhite;
   --alice-blue: aliceblue;
