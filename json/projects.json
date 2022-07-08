@@ -1,50 +1,34 @@
 {
   "projects": [{
       "name": "Infrastructure for Intelligence",
-      "link": "#",
-      "image": "https://unsplash.it/350/250",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fNTB_VoAAAAJ&citation_for_view=fNTB_VoAAAAJ:8k81kl-MbHgC",
+      "image": "https://ucarecdn.com/27186e5a-d3cd-4c1a-850d-a69f4190b783/",
+      "description": "Researching better learning systems through the lens of compositionality and Meta Learning.",
       "type": "type1",
       "icon": "<i class='fa fa-window fa-fw fa-2x'></i>"
     },
     {
-      "name": "Project Beta",
-      "link": "https://hp.com",
-      "image": "https://unsplash.it/350/250",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+      "name": "Interpretability for Complex Learning Systems",
+      "link": "https://www.youtube.com/watch?v=_h0WRNJsqX0",
+      "image": "https://ucarecdn.com/8f72bb27-8c00-41a9-9b59-efe71912ab68/",
+      "description": "Theory and tooling to understand and improve heterogenous learning systems.",
       "type": "type1",
       "icon": "<i class='fa fa-window fa-fw fa-2x'></i>"
     },
     {
-      "name": "Project Gamma",
-      "link": "https://hp.com",
-      "image": "https://unsplash.it/350/250",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
-      "type": "type1",
+      "name": "Adaptive Space Infrastructure",
+      "link": "https://sentinelspace.org/",
+      "image": "https://ucarecdn.com/b20c606c-c2c1-40e4-a5e6-58e8ece5646e/",
+      "description": "Autonomous Robotics and Swarm Intelligence for Space Infrastructure.",
+      "type": "type2",
       "icon": "<i class='fa fa-window fa-fw fa-2x'></i>"
     },
     {
-      "name": "Project Delta",
-      "link": "https://hp.com",
-      "image": "https://unsplash.it/350/250",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
-      "type": "type1",
-      "icon": "<i class='fa fa-window fa-fw fa-2x'></i>"
-    },
-    {
-      "name": "Project Epilson",
-      "link": "https://hp.com",
-      "image": "https://unsplash.it/350/250",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
-      "type": "type1",
-      "icon": "<i class='fa fa-window fa-fw fa-2x'></i>"
-    },
-    {
-      "name": "Project Zeta",
-      "link": "https://hp.com",
-      "image": "https://unsplash.it/350/250",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
-      "type": "type1",
+      "name": "Privacy Preservation in Learning",
+      "link": "https://arxiv.org/pdf/2005.13099.pdf",
+      "image": "https://www.openmined.org/static/media/logo-square-color.2b2fb62b.svg/",
+      "description": "Investigations into privacy preserving techniques in various Learning paradigms.",
+      "type": "type2",
       "icon": "<i class='fa fa-window fa-fw fa-2x'></i>"
     }
   ]
