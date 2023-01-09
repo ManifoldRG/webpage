@@ -16,18 +16,10 @@
       "icon": "<i class='fa fa-window fa-fw fa-2x'></i>"
     },
     {
-      "name": "Adaptive Space Infrastructure",
-      "link": "https://sentinelspace.org/",
-      "image": "https://ucarecdn.com/b20c606c-c2c1-40e4-a5e6-58e8ece5646e/",
-      "description": "Autonomous Robotics and Swarm Intelligence for Space Infrastructure.",
-      "type": "type2",
-      "icon": "<i class='fa fa-window fa-fw fa-2x'></i>"
-    },
-    {
-      "name": "Privacy Preservation in Learning",
+      "name": "Privacy Preservation in Meta Learning",
       "link": "https://arxiv.org/pdf/2005.13099.pdf",
       "image": "https://www.openmined.org/static/media/logo-square-color.2b2fb62b.svg/",
-      "description": "Investigations into privacy preserving techniques in various Learning paradigms.",
+      "description": "Investigations into privacy preserving techniques in various Meta Learning paradigms.",
       "type": "type2",
       "icon": "<i class='fa fa-window fa-fw fa-2x'></i>"
     }
