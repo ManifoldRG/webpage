@@ -14,6 +14,6 @@
       "description": "Creating the tools to construct multicapability AI systems by composing skills and models together.",
       "type": "type1",
       "icon": "<i class='fa fa-window fa-fw fa-2x'></i>"
-    },
+    }
   ]
 }
