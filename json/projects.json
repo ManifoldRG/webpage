@@ -1,27 +1,19 @@
 {
   "projects": [{
-      "name": "Infrastructure for Intelligence",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fNTB_VoAAAAJ&citation_for_view=fNTB_VoAAAAJ:8k81kl-MbHgC",
-      "image": "https://ucarecdn.com/27186e5a-d3cd-4c1a-850d-a69f4190b783/",
-      "description": "Researching better learning systems through the lens of compositionality and Meta Learning.",
+      "name": "NEKO",
+      "link": "github.com/ManifoldRG/neko",
+      "image": "https://ucarecdn.com/5c9bf96a-5fd2-4ea8-a31a-a6265f0c8f37/",
+      "description": "Building large-scale, open-source, multimodal, multiobjective models that work well across a variety of domains.",
       "type": "type1",
       "icon": "<i class='fa fa-window fa-fw fa-2x'></i>"
     },
     {
-      "name": "Interpretability for Complex Learning Systems",
-      "link": "https://www.youtube.com/watch?v=_h0WRNJsqX0",
-      "image": "https://ucarecdn.com/8f72bb27-8c00-41a9-9b59-efe71912ab68/",
-      "description": "Theory and tooling to understand and improve heterogenous learning systems.",
+      "name": "Agent Forge",
+      "link": "https://github.com/ManifoldRG/agentforge",
+      "image": "https://ucarecdn.com/1e01ec3f-8614-407e-9f84-5a85f8aaece3/",
+      "description": "Creating the tools to construct multicapability AI systems by composing skills and models together.",
       "type": "type1",
       "icon": "<i class='fa fa-window fa-fw fa-2x'></i>"
     },
-    {
-      "name": "Privacy Preservation in Meta Learning",
-      "link": "https://arxiv.org/pdf/2005.13099.pdf",
-      "image": "https://www.openmined.org/static/media/logo-square-color.2b2fb62b.svg/",
-      "description": "Investigations into privacy preserving techniques in various Meta Learning paradigms.",
-      "type": "type2",
-      "icon": "<i class='fa fa-window fa-fw fa-2x'></i>"
-    }
   ]
 }
