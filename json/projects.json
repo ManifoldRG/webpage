@@ -1,7 +1,7 @@
 {
   "projects": [{
       "name": "NEKO",
-      "link": "github.com/ManifoldRG/neko",
+      "link": "https://github.com/ManifoldRG/neko",
       "image": "https://ucarecdn.com/3ed73c7e-2e6f-41d3-9e65-349f76a04181/",
       "description": "Building large-scale, open-source, multimodal, multiobjective models that work well across a variety of domains.",
       "type": "type1",
